@@ -1,1 +1,6 @@
-# susi-to-github
+<html>
+  <body>
+    <script type='text/javascript' id='susi-bot-script' data-userid='4013c1b47e4f173c4923eff2bc2d33d3' data-group='Knowledge' data-language='en' data-skill='Raina' src='https://susi.ai/susi-chatbot.js'></script>
+    <p>my susi bot</p>
+  </body>
+  </html>
